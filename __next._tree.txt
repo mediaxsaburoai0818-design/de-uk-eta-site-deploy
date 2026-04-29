@@ -1,4 +1,14 @@
-:HL["/_next/static/chunks/01x8xz1arm-pz.css","style"]
+:HL["/_next/static/chunks/0kux9a_16~pt5.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap","style"]
 :HL["/images/hero-uk.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"FbVTOdGc_B6YPkhdw1fnR"}
+:HL["/images/icon-payment.png","image"]
+:HL["/images/icon-clock.png","image"]
+:HL["/images/icon-calendar.png","image"]
+:HL["/images/icon-suitcase.png","image"]
+:HL["/images/card-what-is-eta.png","image"]
+:HL["/images/card-application.png","image"]
+:HL["/images/card-fee.png","image"]
+:HL["/images/card-validity.png","image"]
+:HL["/images/card-documents.png","image"]
+:HL["/images/card-transit.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"C5rka-idN59GYoh3pmCjV"}
